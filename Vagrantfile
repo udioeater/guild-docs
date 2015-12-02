@@ -1,47 +1,34 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
-$script_provision = <<SCRIPT
-  echo Provisioning...
-  
-  gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-  curl -sSL https://get.rvm.io | bash -s stable --rails
-  source /usr/local/rvm/scripts/rvm
-  
-  cd /vagrant
-  bundle install
+# Vagrantfile API/syntax version. Don't touch unless you know what you're doing!
+VAGRANTFILE_API_VERSION = "2"
 
-  echo "#!/bin/bash"                               >  /usr/local/bin/jekyll-start.sh
-  echo "cd /vagrant"                               >> /usr/local/bin/jekyll-start.sh
-  echo "source /usr/local/rvm/scripts/rvm"         >> /usr/local/bin/jekyll-start.sh
-  echo "bundle exec jekyll serve --force_polling"  >> /usr/local/bin/jekyll-start.sh
-  chmod +x                                            /usr/local/bin/jekyll-start.sh
- 
-  echo Provisioned!!!
-SCRIPT
+Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
-Vagrant.configure("2") do |config|
-  # Base box.
-  config.vm.box = "xnerv/standard-debian-7.9.0-i386.box"
-  
-  # Shared folders.
-  config.vm.synced_folder "./", "/vagrant"
-  
-  # Forwarded ports.
-  config.vm.network :forwarded_port, guest: 4000, host: 4000
-
-  # Remote access.
-  config.ssh.forward_agent = true
-  
-  # Virtualization provider.
-  config.vm.provider :virtualbox do |vb|
-    # Don't boot with headless mode.
-    vb.gui = false
- 
-    # Use VBoxManage to customize the VM.
-    vb.customize ["modifyvm", :id, "--memory", "512"]
+  # Every Vagrant virtual environment requires a box to build off of.
+  config.vm.box = "hashicorp/precise32"
+  config.vm.hostname = "jekyll"
+  config.vm.define "github-pages" do |base|
   end
 
-  config.vm.provision "shell", inline: $script_provision, run: "once"
-  config.vm.provision "shell", inline: "/usr/local/bin/jekyll-start.sh", run: "always"
+  # Throw in our provisioning script
+  config.vm.provision "shell", path: "bootstrap.sh", privileged: false
+
+  # Map localhost:4000 to port 4000 inside the VM
+  config.vm.network "forwarded_port", guest: 4000, host: 4000
+  config.vm.network "private_network", ip: "192.168.3.33"
+
+  # Create a shared folder between guest and host
+  config.vm.synced_folder "www/", "/srv/www", create: true
+
+  config.ssh.forward_agent = true
+
+  # VirtualBox-specific configuration
+  config.vm.provider "virtualbox" do |v|
+    v.customize ["modifyvm", :id, "--memory", 512]
+    v.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
+    v.customize ["modifyvm", :id, "--natdnsproxy1", "on"]
+  end
+
 end
