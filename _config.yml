@@ -10,7 +10,7 @@
 # If you are building a GitHub project page then use these settings:
 url: "http://pillartechnology.github.io/guild-docs"
 #url: "http://0.0.0.0:4000/guild-docs"
-#baseurl: /guild-docs
+baseurl: /guild-docs
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
