@@ -35,17 +35,18 @@ navbar-links:
   
 # --- Footer options --- #
 
+disqus: disqus_mastercraftsman
+
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Pillar Technology
   email: "mastercraftsman@pillartechnology.com"
-  #facebook: yourname  # eg. daattali
+  facebook: # eg. daattali
   github: pillartechnology    # eg. daattali
   twitter: agilesoftware   # eg. daattali
-  #linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  #stackoverflow: yourlink  # eg. "users/3943160/daattali"
-  discus-shortname: disqus_mastercraftsman
+  linkedin: # eg. "pub/dean-attali/8/946/143"
+  stackoverflow: # eg. "users/3943160/daattali"
 # Select which links to show in the footer
 footer-links-active:
   rss: true
