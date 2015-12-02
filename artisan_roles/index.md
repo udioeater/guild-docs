@@ -3,9 +3,11 @@ layout: page
 title: Guild Artisan Personas
 ---
 
+If you're asking 'Why?', check out the [value stories](value_stories.html).
+
 Pre Requisites Apprentice
 -------------------------
-As a **prospective Apprentice**
+As a **prospective Apprentice**\\
 I should exhibit the following behaviors:
 <ul>
 <li>basic technical and soft-skills aptitude</li>
@@ -16,7 +18,7 @@ So that I can become an **Apprentice**
 
 Apprentice (1 year)
 -------------------
-As an **Apprentice**
+As an **Apprentice**\\
 I should exhibit the following behaviors:
 <ul>
 <li>Proficiency in at least 1 marketable technology</li>
@@ -27,7 +29,7 @@ So that I am eligible to become a **Journeyman**
 
 Journeyman (5+ years)
 ---------------------
-As a **Journeyman**
+As a **Journeyman**\\
 I should exhibit the following behaviors:
 <ul>
 <li>proficiency in at least 3 marketable technologies</li>
@@ -40,7 +42,7 @@ So that I am eligible to become a **Craftsman**
  
 Craftsman (7+ years)
 --------------------
-As a **Craftsman**
+As a **Craftsman**\\
 I should exhibit the following behaviors:
 <ul>
 <li>demonstrable proficiency in at least 6 marketable technologies</li>
@@ -76,7 +78,7 @@ So that I am eligible to become a **Master Craftsman**
 
 Master Craftsman
 ----------------
-As a **Master Craftsman**
+As a **Master Craftsman**\\
 I should exhibit the following behaviors:
 <ul>
 <li>Know the rules, but more importantly, know when to break them</li>
