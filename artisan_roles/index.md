@@ -5,6 +5,8 @@ title: Guild Artisan Personas
 
 If you're asking 'Why?', check out the [value stories](./value_stories.html).
 
+> The time frame denoted in parentheses is an average number of years spent at that level
+
 Pre Requisites Apprentice
 -------------------------
 As a **prospective Apprentice**\\
@@ -97,6 +99,3 @@ I should exhibit the following behaviors:
 </ul>
 So that I can maintain and grow my role as a **Master Craftsman**
 
-Notes
------
-The time frame denoted in parentheses is an average number of years spent at that level
