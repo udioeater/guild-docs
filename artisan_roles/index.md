@@ -3,7 +3,7 @@ layout: page
 title: Guild Artisan Personas
 ---
 
-If you're asking 'Why?', check out the [value stories](value_stories.html).
+If you're asking 'Why?', check out the [value stories](./value_stories.html).
 
 Pre Requisites Apprentice
 -------------------------
