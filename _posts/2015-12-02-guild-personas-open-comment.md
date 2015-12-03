@@ -13,5 +13,7 @@ If you're so inclined, we'll take pull requests on the [guild-docs repository](h
 
 Other conventional means of communication are also possible. You can drop an email to *mastercraftsmen@pillartechnology.com*. We'll make sure your questions get captured and answered along with the rest of them.
 
+If none of the previous options meets your needs, please utilize the 'Disqus' comments sections at the bottom of the page.  Please leave your thoughts and/or questions within the comment section and we will aggregate with all other methods of submission.
+
 # Future State
 This definition of artisan roles is designed as a starting point for building out a comprehensive guild system at Pillar. As such, these definitions encompass the 'what'. The 'how' of moving from one role to another will be following in the footsteps of these definitions. This first step, of getting clarity around these roles, is just the beginning. The [value stories](/artisan_roles/value_stories.html) around these roles may help to answer a few of the 'why' behind roles.
