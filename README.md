@@ -16,5 +16,5 @@ If you find anything wrong or would like to contribute in any way, feel free to 
 
 ### Running locally
 
-Once you have followed the instructions above, a simple " bundle install " and  " bundle exec jekyll serve --baseurl '' " will get Jekyll running locally on port 4000
+Once you have followed the instructions above, a simple " bundle install " and  " bundle exec jekyll serve --baseurl '/guild-docs' " will get Jekyll running locally on port 4000
 
