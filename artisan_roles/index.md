@@ -22,7 +22,7 @@ As an **Apprentice**\\
 I should exhibit the following behaviors:
 <ul>
 <li>Proficiency in at least 1 marketable technology</li>
-<li>Aware of basic Pillar Tenants of Software Engineering</li>
+<li>Aware of basic Pillar Tenets of Software Engineering</li>
 <li>Actively participated on at least one Pillar Project</li>
 </ul>
 So that I am eligible to become a **Journeyman**
