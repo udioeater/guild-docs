@@ -35,8 +35,6 @@ navbar-links:
   
 # --- Footer options --- #
 
-disqus: mastercraftsman
-
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
@@ -59,12 +57,12 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "pillartechnology.github.io/guild-docs"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pillartechnology.github.io/guild-docs"
 
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: mastercraftsman
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
