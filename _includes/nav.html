@@ -23,7 +23,7 @@
 	{% if site.avatar %}
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="/logo">
+      <a href="{{ site.url }}/logo">
 	      <img class="avatar-img" src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" />
 		</a>
 	  </div>
