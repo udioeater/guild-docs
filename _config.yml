@@ -41,7 +41,7 @@ disqus: mastercraftsmen
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Pillar Technology
-  email: "mastercraftsman@pillartechnology.com"
+  email: "mastercraftsmen@pillartechnology.com"
   facebook: # eg. daattali
   github: pillartechnology    # eg. daattali
   twitter: agilesoftware   # eg. daattali
