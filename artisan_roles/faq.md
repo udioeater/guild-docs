@@ -1,3 +1,8 @@
+---
+layout: page
+title: Guild Artisan Personas FAQ
+---
+
 How does the process of moving up a persona become initiated? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
 : answer goes here
 
