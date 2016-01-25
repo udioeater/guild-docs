@@ -6,17 +6,17 @@ title: Guild Artisan Personas FAQ
 How does the process of moving up a persona become initiated? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
 : The process of moving from one persona to another should be initiated with the help of your mentor. In the absence of a mentor, the most senior artisan on your team or account can step in. During your Career Retro (facilitated by your Account DE and Account Artisan), one topic of conversation should be about your career progression. Using the persona definitions as guidelines, a career plan should be constructed and reviewed during every Career Retro. Currently, the expectation is to have Career Retros on a 6 month cadence.
 
-Who will judge a prospects behaviors? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
-: answer goes here
+Who will judge an artisan's behaviors? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
+: Artisans will be treated to individual attention, much like the current new-hire interview process. An artisan's mentor and peer are responsible for giving frequent and honest feedback to help the artisan grow. Once the artisan has been identified, evaluations will be given by Master Craftsmen and Craftsmen, depending on availability and level of the artisan being evaluated.
 
 How will the behaviors be judged (checked off) since some are subjective? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
-: answer goes here
+: For behaviors that are subjective, pairing and in-person observation will take place.
 
 Pillar should provide an opportunity for community participation (10% time?) [Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
 : answer goes here
 
 Are my promotion qualifications tied heavily to my participation in activities outside of work (community paricipation)? [Inferred, Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
-: answer goes here
+: Depends on how you define 'heavily.' Will someone who participates in the community grow and mature in their profession at a faster rate? Experience says 'yes'. So, an artisan that participates in activities outside of their billable time will progress at a faster rate.
 
 Are measures like the number of releases optional? Or explain how that works? [Issue #14](https://github.com/PillarTechnology/guild-docs/issues/314)
 : answer goes here
@@ -24,56 +24,56 @@ Are measures like the number of releases optional? Or explain how that works? [I
 Similarly, are the number of projects an optional criteria? [Issue #14](https://github.com/PillarTechnology/guild-docs/issues/14)
 : answer goes here
 
-What are marketable techologies? [Issue #15](https://github.com/PillarTechnology/guild-docs/issues/15)
-: answer goes here
+What are marketable technologies? [Issue #15](https://github.com/PillarTechnology/guild-docs/issues/15)
+: Marketable technologies are technologies that we can build solutions around. Clients are actively requesting them and / or we see them becoming hot in the near term.
 
 Where can I find the Pillar Practice Documents [Issue #15](https://github.com/PillarTechnology/guild-docs/issues/15)
-: answer goes here
+: The Pillar Practice Documents are a work in progress.
 
 How do we plan to evaluate new hires? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
-: answer goes here
+: Using the same process we do today: kata, pairing, leadership interview.
 
 Does everyone start at Apprentice? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
-: answer goes here
+: No.
 
 Does past experience (employers/clients/etc) pre-Pillar count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
-: answer goes here
+: Yes.
 
 Related, do prior expereinces with deployments, clients, etc. count? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
-: answer goes here
+: Yes.
 
 If someone has satisfied all requirements other than number of clients does that count? [Issue #18](https://github.com/PillarTechnology/guild-docs/issues/18)
-: answer goes here
+: TBD.
 
 Where is the Table of Contents? [Issue #20](https://github.com/PillarTechnology/guild-docs/issues/20)
-: answer goes here
+: Under Construction.
 
 What is the purpose of Years of Experience? [Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
-: answer goes here
+: The purpose of years of experience is to give an artisan a general idea of where they stand on their journey.
 
 Are the years of experience cummulative across the career or just at Pillar? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
-: answer goes here
+: Depends on the quality of the years accrued. The same year repeated 10 times is not the same as 10 years of professional growth.
 
 Do multiple projects at one client count the same or similarly to multiple clients? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
 : answer goes here
 
 What is the intent behind hard numbers like Years of Experience and Clients worked for? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
-: answer goes here
+: To provide artisans with a general baseline for where they stand within the company and in the larger software development community.
 
 How can mentoring be a requirement when it isn't formally recognized and supported by the organization? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
 : answer goes here
 
 Are requirements tied to badges and/or microdegrees in StepItUp? [Issue #24](https://github.com/PillarTechnology/guild-docs/issues/24)
-: answer goes here
+: Loosely.
 
 Is there a recommended reading list? [Issue #26](https://github.com/PillarTechnology/guild-docs/issues/26) More generally, is there an index of recommended training materails?
-: answer goes here
+: This list is under construction at the moment.
 
 What happens if people are not doing a few of the items on the list? [Issue #28](https://github.com/PillarTechnology/guild-docs/issues/28)
 : answer goes here
 
 Clarify the expecations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29](https://github.com/PillarTechnology/guild-docs/issues/29)
-: answer goes here
+: We have framed them as clear acceptance criteria and it should be clear in the wording.
 
 What are the marketable technologies in areas other than programming? e.g. For testers [Issue #30](https://github.com/PillarTechnology/guild-docs/issues/30)
 : answer goes here
@@ -88,7 +88,7 @@ What is the sales/marketing/strategy view of polyglot and its utility to them? [
 : answer goes here
 
 Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)[That is an intersting notion]
-: answer goes here
+: I didn't know we hired for two different types of engineers. In short, no, no there isn't.
 
 Why are these *things* valuable to Pillar? How valuable? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
 : answer goes here
@@ -100,13 +100,13 @@ Issue #33 is marked as having a question but I'm not picking a specific question
 : answer goes here
 
 What does 'actively integrating engineering practices and value practices' mean? [Issue #34](https://github.com/PillarTechnology/guild-docs/issues/34)
-: answer goes here
+: The artisan should be able to understand both the technical and business value of doing a thing. They should be able to quantify (in $ to the client, if necessary) the value of the thing they are building and the approach they are suggesting. In short, every artisan should strive to bridge the gap between the technical and the business requirements.
 
 What are the Value Practices? [Issue #34](https://github.com/PillarTechnology/guild-docs/issues/34)
 : answer goes here
 
 Why are we experimenting with a new hierarchical strucutre? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
-: answer goes here
+: The current structure is inadequate and does not scale.
 
 How does the guild structure align with compensation? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
 : answer goes here
