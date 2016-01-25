@@ -4,7 +4,7 @@ title: Guild Artisan Personas FAQ
 ---
 
 How does the process of moving up a persona become initiated? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
-: answer goes here
+: The process of moving from one persona to another should be initiated with the help of your mentor. In the absence of a mentor, the most senior artisan on your team or account can step in. During your Career Retro (facilitated by your Account DE and Account Artisan), one topic of conversation should be about your career progression. Using the persona definitions as guidelines, a career plan should be constructed and reviewed during every Career Retro. Currently, the expectation is to have Career Retros on a 6 month cadence.
 
 Who will judge a prospects behaviors? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
 : answer goes here
