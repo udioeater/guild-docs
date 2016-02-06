@@ -55,7 +55,7 @@ Are the years of experience cummulative across the career or just at Pillar? [In
 : Depends on the quality of the years accrued. The same year repeated 10 times is not the same as 10 years of professional growth.
 
 Do multiple projects at one client count the same or similarly to multiple clients? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
-: answer goes here
+: Depends on what has been learned through the projects.  Dealing with the same issues and the same people on multiple projects is not the same as learning to deal with a variety of issues and people in different cultural and political environments.
 
 What is the intent behind hard numbers like Years of Experience and Clients worked for? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
 : To provide artisans with a general baseline for where they stand within the company and in the larger software development community.
