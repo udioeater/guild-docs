@@ -25,7 +25,7 @@ Similarly, are the number of projects an optional criteria? [Issue #14](https://
 : answer goes here
 
 What are marketable technologies? [Issue #15](https://github.com/PillarTechnology/guild-docs/issues/15)
-: Marketable technologies are technologies that we can build solutions around. Clients are actively requesting them and / or we see them becoming hot in the near term.
+: Marketable technologies are technologies that we can build solutions around. In other words, clients are actively requesting them and / or we see them becoming hot in the near term.
 
 Where can I find the Pillar Practice Documents [Issue #15](https://github.com/PillarTechnology/guild-docs/issues/15)
 : The Pillar Practice Documents are a work in progress.
@@ -39,7 +39,7 @@ Does everyone start at Apprentice? [Issue #16](https://github.com/PillarTechnolo
 Does past experience (employers/clients/etc) pre-Pillar count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
 : Yes.
 
-Related, do prior expereinces with deployments, clients, etc. count? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
+Related, do prior expereinces with deployments, clients, etc. count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
 : Yes.
 
 If someone has satisfied all requirements other than number of clients does that count? [Issue #18](https://github.com/PillarTechnology/guild-docs/issues/18)
@@ -55,10 +55,10 @@ Are the years of experience cummulative across the career or just at Pillar? [In
 : Depends on the quality of the years accrued. The same year repeated 10 times is not the same as 10 years of professional growth.
 
 Do multiple projects at one client count the same or similarly to multiple clients? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
-: answer goes here
+: Depends on what has been learned through the projects.  Dealing with the same issues and the same personalities on multiple projects is not as valuable (toward career growth) as learning to deal with a variety of issues and personalities in different cultural and political environments.
 
 What is the intent behind hard numbers like Years of Experience and Clients worked for? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
-: To provide artisans with a general baseline for where they stand within the company and in the larger software development community.
+: To provide artisans with a general baseline for where they stand within the company and in the larger software development community.  It also serves as a rough measure of the variety of different types of issues and personalities and the range of different cultural and political environments that an artisan has learned to deal with throughout their career.
 
 How can mentoring be a requirement when it isn't formally recognized and supported by the organization? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
 : answer goes here
@@ -71,6 +71,7 @@ Is there a recommended reading list? [Issue #26](https://github.com/PillarTechno
 
 What happens if people are not doing a few of the items on the list? [Issue #28](https://github.com/PillarTechnology/guild-docs/issues/28)
 : They should aim to go above and beyond in other areas in order to compensate.
+
 Clarify the expecations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29](https://github.com/PillarTechnology/guild-docs/issues/29)
 : We have framed them as clear acceptance criteria and it should be clear in the wording.
 
@@ -96,7 +97,7 @@ Who is responsible for the 'future edification' of the humans? [Issue #32](https
 : answer goes here
 
 Issue #33 is marked as having a question but I'm not picking a specific question out, best guess is 'Should we count projects rather than clients?' [Issue #33](https://github.com/PillarTechnology/guild-docs/issues/33)
-: answer goes here
+: This is addressed in the answers to the questions for Issue #21 and Issue #14.
 
 What does 'actively integrating engineering practices and value practices' mean? [Issue #34](https://github.com/PillarTechnology/guild-docs/issues/34)
 : The artisan should be able to understand both the technical and business value of doing a thing. They should be able to quantify (in $ to the client, if necessary) the value of the thing they are building and the approach they are suggesting. In short, every artisan should strive to bridge the gap between the technical and the business requirements.
@@ -114,12 +115,24 @@ How do we make sure we have the proper ratio of the various artisan groups in or
 : answer goes here
 
 [Issue #35 contains some statement about roles being dictated by client requirements, from this I infer the following question] How do these personnas relate to the roles played at the client location? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
-: answer goes here
+: As a consultant, you will always be playing multiple roles at any given time.  You will be minimally playing one role for Pillar and another role for a client.  Sometimes they will overlap greatly.  Other times, they will be completely different.  And even other times, you might be playing more than one role for the client (e.g. both the product owner and the iteration manager).  It entirely depends on what the client needs.  However, you shouldn't ever be playing a role at a client that you aren't either already able to handle or ready to grow into.  The example in the issue was, "what if an apprentice was asked to play a master craftsman role at a client."  That should never happen.  The apprentice wouldn't be ready to play that role.  If it does happen, please escalate that immediately, because we want to ensure that our artisans are always placed in a role where they can grow and be successful, and we want to ensure that we have the appropriate people in the appropriate roles to enable success at our clients.
 
 How is this not stack ranking? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
-: There is not a set number of Master Craftsmen, Craftsmen, Journeymen, or Apprentices in the organization. If there are highly qualified individuals that qualify to be Craftsmen, they will be Craftsmen. If Pillar becomes top-heavy because of this, that's a nice problem to have. Also, this process and distribution will be driven by your peers, not by management.
+: It's definitely not stack ranking.  We haven't looked at the distribution of talent currently at Pillar, fit it to a bell curve, and drawn arbitrary lines for the different guild personas.  In other words, there is not a set number of Master Craftsmen, Craftsmen, Journeymen, or Apprentices in the organization. If there are highly qualified individuals that qualify to be Craftsmen, they will be Craftsmen. If Pillar becomes top-heavy because of this, that's a nice problem to have. Also, this process and distribution will be driven by your peers, not by management.
+
+For those who are familiar with learning theory, you can think of the personas as, in some ways, running parallel to learning stages.  (Apologies if some liberties have been taken with the Step It Up learning stages and their names.  Maslow's learning stages are added for additional context.)
+
+Persona | SIU Learning Stage | Maslow's Learning Stage | Other Notes
+------- | ------------------ | ----------------------- | -----------
+Pre-Apprentice | -- | Unconscious Incompetence | Identified as Ready to Start Learning
+Apprentice | Aware | Conscious Incompetence |
+Journeyman | Assimilating | Conscious Competence |
+Craftsman | Teaching | Unconscious Competence |
+Master Craftsman | -- | -- | Leading / Guiding / Setting the Direction
+
 Who is the target? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
 : The target for these personas and the Guilds are the artisans at Pillar. Not included in the initial rollout are Delivery personel, nor those designated as Executive Consultants.
+
 Will a slow progresion through the heirarchy be preceived as stagnation by an outsider? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
 : answer goes here
 
