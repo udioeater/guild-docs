@@ -97,7 +97,7 @@ Who is responsible for the 'future edification' of the humans? [Issue #32](https
 : answer goes here
 
 Issue #33 is marked as having a question but I'm not picking a specific question out, best guess is 'Should we count projects rather than clients?' [Issue #33](https://github.com/PillarTechnology/guild-docs/issues/33)
-: answer goes here
+: This is addressed in the answers to the questions for Issue #21 and Issue #14.
 
 What does 'actively integrating engineering practices and value practices' mean? [Issue #34](https://github.com/PillarTechnology/guild-docs/issues/34)
 : The artisan should be able to understand both the technical and business value of doing a thing. They should be able to quantify (in $ to the client, if necessary) the value of the thing they are building and the approach they are suggesting. In short, every artisan should strive to bridge the gap between the technical and the business requirements.
