@@ -25,7 +25,7 @@ Similarly, are the number of projects an optional criteria? [Issue #14](https://
 : answer goes here
 
 What are marketable technologies? [Issue #15](https://github.com/PillarTechnology/guild-docs/issues/15)
-: Marketable technologies are technologies that we can build solutions around. Clients are actively requesting them and / or we see them becoming hot in the near term.
+: Marketable technologies are technologies that we can build solutions around. In other words, clients are actively requesting them and / or we see them becoming hot in the near term.
 
 Where can I find the Pillar Practice Documents [Issue #15](https://github.com/PillarTechnology/guild-docs/issues/15)
 : The Pillar Practice Documents are a work in progress.
