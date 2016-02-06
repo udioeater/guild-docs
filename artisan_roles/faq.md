@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: faq
 title: Guild Artisan Personas FAQ
 ---
 
@@ -70,7 +70,7 @@ Is there a recommended reading list? [Issue #26](https://github.com/PillarTechno
 : This list is under construction at the moment.
 
 What happens if people are not doing a few of the items on the list? [Issue #28](https://github.com/PillarTechnology/guild-docs/issues/28)
-: answer goes here
+: They should aim to go above and beyond in other areas in order to compensate.
 
 Clarify the expecations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29](https://github.com/PillarTechnology/guild-docs/issues/29)
 : We have framed them as clear acceptance criteria and it should be clear in the wording.
@@ -118,8 +118,7 @@ How do we make sure we have the proper ratio of the various artisan groups in or
 : As a consultant, you will always be playing multiple roles at any given time.  You will be minimally playing one role for Pillar and another role for a client.  Sometimes they will overlap greatly.  Other times, they will be completely different.  And even other times, you might be playing more than one role for the client (e.g. both the product owner and the iteration manager).  It entirely depends on what the client needs.  However, you shouldn't ever be playing a role at a client that you aren't either already able to handle or ready to grow into.  The example in the issue was, "what if an apprentice was asked to play a master craftsman role at a client."  That should never happen.  The apprentice wouldn't be ready to play that role.  If it does happen, please escalate that immediately, because we want to ensure that our artisans are always placed in a role where they can grow and be successful, and we want to ensure that we have the appropriate people in the appropriate roles to enable success at our clients.
 
 How is this not stack ranking? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
-: It's definitely not stack ranking.  We haven't looked at the distribution of talent currently at Pillar, fit it to a bell curve, and drawn arbitrary lines for the different guild personas.
-For those who are familiar with learning theory, you can think of the personas as, in some ways, running parallel to learning stages.  (Apologies if some liberties have been taken with the Step It Up learning stages and their names.  Maslow's learning stages are added for additional context.)
+: It's definitely not stack ranking.  We haven't looked at the distribution of talent currently at Pillar, fit it to a bell curve, and drawn arbitrary lines for the different guild personas.  There is not a set number of Master Craftsmen, Craftsmen, Journeymen, or Apprentices in the organization. If there are highly qualified individuals that qualify to be Craftsmen, they will be Craftsmen. If Pillar becomes top-heavy because of this, that's a nice problem to have. Also, this process and distribution will be driven by your peers, not by management.  For those who are familiar with learning theory, you can think of the personas as, in some ways, running parallel to learning stages.  (Apologies if some liberties have been taken with the Step It Up learning stages and their names.  Maslow's learning stages are added for additional context.)
 
 Persona | SIU Learning Stage | Maslow's Learning Stage | Other Notes
 ------- | ------------------ | ----------------------- | -----------
@@ -130,7 +129,7 @@ Craftsman | Teaching | Unconscious Competence |
 Master Craftsman | -- | -- | Leading / Guiding / Setting the Direction
 
 Who is the target? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
-: answer goes here
+: The target for these personas and the Guilds are the artisans at Pillar. Not included in the initial rollout are Delivery personel, nor those designated as Executive Consultants.
 
 Will a slow progresion through the heirarchy be preceived as stagnation by an outsider? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
 : answer goes here
