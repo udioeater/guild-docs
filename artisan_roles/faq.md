@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: faq
 title: Guild Artisan Personas FAQ
 ---
 
