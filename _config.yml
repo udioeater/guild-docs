@@ -32,6 +32,7 @@ navbar-links:
   #About: "about"
   #Contact: "contact"
   Roles: "artisan_roles"
+  FAQ: "artisan_roles/faq.html"
   
 # --- Footer options --- #
 
