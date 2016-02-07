@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why 
+title: About
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The Guild Docs are intended to provide guidance to help artisans progress along their career path.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+If you have questions, comments, or suggestions, please feel free to send an email to <mastercraftsmen@pillartechnology.com>.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you are so inclined, we'll take pull requests on the [guild-docs repository](https://github.com/PillarTechnology/guild-docs), or you can [open an issue](https://github.com/PillarTechnology/guild-docs/issues).
