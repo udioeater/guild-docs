@@ -133,11 +133,11 @@ Master Craftsman | -- | -- | Leading / Guiding / Setting the Direction
 Who is the target? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
 : The target for these personas and the Guilds are the artisans at Pillar. Not included in the initial rollout are Delivery personel, nor those designated as Executive Consultants.
 
-Will a slow progresion through the heirarchy be preceived as stagnation by an outsider? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
-: answer goes here
+Will a slow progresion through the heirarchy be preceived as stagnation by an outsider (outside of Pillar)? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
+: These are internal roles, intended to assist in helping to guide our artisans along their career path, to help us ensure that we have an appropriate balance of knowledge and experience on a team, and to help ensure that we have appropriate support available for our artisans as we continue to grow as a company.  At a client site, you will always have different roles that you will be playing for them, usually using same names that the client uses.  *We will not be arbitrarily promoting people through the roles in order to make people "look good" in clients' eyes.*
 
-Will the vanity titles mean anything (outside the organization)? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
-: answer goes here
+Will the vanity titles mean anything (outside of Pillar)? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
+: Honestly, we don't care.  The sole purpose of their existence is to assist with our internal needs.
 
 How will we provide support for artisans to progress without working unsustainable hours? [Issue #39](https://github.com/PillarTechnology/guild-docs/issues/39)
 : answer goes here
