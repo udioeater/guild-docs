@@ -126,7 +126,7 @@ Persona | SIU Learning Stage | Maslow's Learning Stage | Other Notes
 ------- | ------------------ | ----------------------- | -----------
 Pre-Apprentice | -- | Unconscious Incompetence | Identified as Ready to Start Learning
 Apprentice | Aware | Conscious Incompetence |
-Journeyman | Assimilating | Conscious Competence |
+Journeyman | Demonstrating | Conscious Competence |
 Craftsman | Teaching | Unconscious Competence |
 Master Craftsman | -- | -- | Leading / Guiding / Setting the Direction
 
