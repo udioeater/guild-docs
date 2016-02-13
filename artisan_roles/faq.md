@@ -19,10 +19,10 @@ Are my promotion qualifications tied heavily to my participation in activities o
 : Depends on how you define 'heavily.' Will someone who participates in the community grow and mature in their profession at a faster rate? Experience says 'yes'. So, an artisan that participates in activities outside of their billable time will progress at a faster rate.
 
 Are measures like the number of releases optional? Or explain how that works? [Issue #14](https://github.com/PillarTechnology/guild-docs/issues/314)
-: answer goes here
+: The answer is in the same vein as the answers to the questions for Issue #21.
 
 Similarly, are the number of projects an optional criteria? [Issue #14](https://github.com/PillarTechnology/guild-docs/issues/14)
-: answer goes here
+: This is addressed in the answers to the questions for Issue #21.
 
 What are marketable technologies? [Issue #15](https://github.com/PillarTechnology/guild-docs/issues/15)
 : Marketable technologies are technologies that we can build solutions around. In other words, clients are actively requesting them and / or we see them becoming hot in the near term.
@@ -37,13 +37,13 @@ Does everyone start at Apprentice? [Issue #16](https://github.com/PillarTechnolo
 : No.
 
 Does past experience (employers/clients/etc) pre-Pillar count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
-: Yes.
+: Yes.  See the answers to the questions for Issue #21 for further enlightenment.
 
 Related, do prior expereinces with deployments, clients, etc. count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
-: Yes.
+: Yes.  See the answers to the questions for Issue #21 for further enlightenment.
 
 If someone has satisfied all requirements other than number of clients does that count? [Issue #18](https://github.com/PillarTechnology/guild-docs/issues/18)
-: TBD.
+: The answer is in the same vein as the answers to the questions for Issue #21.
 
 Where is the Table of Contents? [Issue #20](https://github.com/PillarTechnology/guild-docs/issues/20)
 : Under Construction.
@@ -97,7 +97,7 @@ Who is responsible for the 'future edification' of the humans? [Issue #32](https
 : answer goes here
 
 Issue #33 is marked as having a question but I'm not picking a specific question out, best guess is 'Should we count projects rather than clients?' [Issue #33](https://github.com/PillarTechnology/guild-docs/issues/33)
-: This is addressed in the answers to the questions for Issue #21 and Issue #14.
+: This is addressed in the answers to the questions for Issue #21.
 
 What does 'actively integrating engineering practices and value practices' mean? [Issue #34](https://github.com/PillarTechnology/guild-docs/issues/34)
 : The artisan should be able to understand both the technical and business value of doing a thing. They should be able to quantify (in $ to the client, if necessary) the value of the thing they are building and the approach they are suggesting. In short, every artisan should strive to bridge the gap between the technical and the business requirements.
