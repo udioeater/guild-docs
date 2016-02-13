@@ -87,14 +87,14 @@ Is my only path to advancement to be a generalist? [Issue #31](https://github.co
 What is the sales/marketing/strategy view of polyglot and its utility to them? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)
 : answer goes here
 
-Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)[That is an intersting notion]
+Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31) [That is an intersting notion]
 : I didn't know we hired for two different types of engineers. In short, no, no there isn't.
 
 Why are these *things* valuable to Pillar? How valuable? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
 : answer goes here
 
-Who is responsible for the 'future edification' of the humans? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
-: answer goes here
+Who is responsible for the 'future edification' of artisans? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
+: The short answer is that you are solely responsible for (read: "only you have control over") your own professional development and growth.  The long answer is that we have an entire company full of artisans who all love teaching and helping others.  While only you can take control and ensure that you are taking steps to further your own professional development and growth, there are many artisans within Pillar who would be glad to assist you in whatever way they can.  But it is up to you to ask for help when you need it, don't expect that others will initiate and ensure that you are continuing to grow.
 
 Issue #33 is marked as having a question but I'm not picking a specific question out, best guess is 'Should we count projects rather than clients?' [Issue #33](https://github.com/PillarTechnology/guild-docs/issues/33)
 : This is addressed in the answers to the questions for Issue #21.
