@@ -19,10 +19,10 @@ Are my promotion qualifications tied heavily to my participation in activities o
 : Depends on how you define 'heavily.' Will someone who participates in the community grow and mature in their profession at a faster rate? Experience says 'yes'. So, an artisan that participates in activities outside of their billable time will progress at a faster rate.
 
 Are measures like the number of releases optional? Or explain how that works? [Issue #14](https://github.com/PillarTechnology/guild-docs/issues/314)
-: answer goes here
+: The answer is in the same vein as the answers to the questions for Issue #21.
 
 Similarly, are the number of projects an optional criteria? [Issue #14](https://github.com/PillarTechnology/guild-docs/issues/14)
-: answer goes here
+: This is addressed in the answers to the questions for Issue #21.
 
 What are marketable technologies? [Issue #15](https://github.com/PillarTechnology/guild-docs/issues/15)
 : Marketable technologies are technologies that we can build solutions around. In other words, clients are actively requesting them and / or we see them becoming hot in the near term.
@@ -37,13 +37,13 @@ Does everyone start at Apprentice? [Issue #16](https://github.com/PillarTechnolo
 : No.
 
 Does past experience (employers/clients/etc) pre-Pillar count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
-: Yes.
+: Yes.  See the answers to the questions for Issue #21 for further enlightenment.
 
 Related, do prior expereinces with deployments, clients, etc. count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
-: Yes.
+: Yes.  See the answers to the questions for Issue #21 for further enlightenment.
 
 If someone has satisfied all requirements other than number of clients does that count? [Issue #18](https://github.com/PillarTechnology/guild-docs/issues/18)
-: TBD.
+: The answer is in the same vein as the answers to the questions for Issue #21.
 
 Where is the Table of Contents? [Issue #20](https://github.com/PillarTechnology/guild-docs/issues/20)
 : Under Construction.
@@ -87,17 +87,17 @@ Is my only path to advancement to be a generalist? [Issue #31](https://github.co
 What is the sales/marketing/strategy view of polyglot and its utility to them? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)
 : answer goes here
 
-Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)[That is an intersting notion]
+Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31) [That is an intersting notion]
 : I didn't know we hired for two different types of engineers. In short, no, no there isn't.
 
 Why are these *things* valuable to Pillar? How valuable? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
 : answer goes here
 
-Who is responsible for the 'future edification' of the humans? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
-: answer goes here
+Who is responsible for the 'future edification' of artisans? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
+: The short answer is that you are solely responsible for (read: "only you have control over") your own professional development and growth.  The long answer is that we have an entire company full of artisans who all love teaching and helping others.  While only you can take control and ensure that you are taking steps to further your own professional development and growth, there are many artisans within Pillar who would be glad to assist you in whatever way they can.  But it is up to you to ask for help when you need it, don't expect that others will initiate and ensure that you are continuing to grow.
 
 Issue #33 is marked as having a question but I'm not picking a specific question out, best guess is 'Should we count projects rather than clients?' [Issue #33](https://github.com/PillarTechnology/guild-docs/issues/33)
-: This is addressed in the answers to the questions for Issue #21 and Issue #14.
+: This is addressed in the answers to the questions for Issue #21.
 
 What does 'actively integrating engineering practices and value practices' mean? [Issue #34](https://github.com/PillarTechnology/guild-docs/issues/34)
 : The artisan should be able to understand both the technical and business value of doing a thing. They should be able to quantify (in $ to the client, if necessary) the value of the thing they are building and the approach they are suggesting. In short, every artisan should strive to bridge the gap between the technical and the business requirements.
@@ -126,18 +126,18 @@ Persona | SIU Learning Stage | Maslow's Learning Stage | Other Notes
 ------- | ------------------ | ----------------------- | -----------
 Pre-Apprentice | -- | Unconscious Incompetence | Identified as Ready to Start Learning
 Apprentice | Aware | Conscious Incompetence |
-Journeyman | Assimilating | Conscious Competence |
+Journeyman | Demonstrating | Conscious Competence |
 Craftsman | Teaching | Unconscious Competence |
 Master Craftsman | -- | -- | Leading / Guiding / Setting the Direction
 
 Who is the target? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
 : The target for these personas and the Guilds are the artisans at Pillar. Not included in the initial rollout are Delivery personel, nor those designated as Executive Consultants.
 
-Will a slow progresion through the heirarchy be preceived as stagnation by an outsider? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
-: answer goes here
+Will a slow progresion through the heirarchy be preceived as stagnation by an outsider (outside of Pillar)? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
+: These are internal roles, intended to assist in helping to guide our artisans along their career path, to help us ensure that we have an appropriate balance of knowledge and experience on a team, and to help ensure that we have appropriate support available for our artisans as we continue to grow as a company.  At a client site, you will always have different roles that you will be playing for them, usually using same names that the client uses.  *We will not be arbitrarily promoting people through the roles in order to make people "look good" in clients' eyes.*
 
-Will the vanity titles mean anything (outside the organization)? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
-: answer goes here
+Will the vanity titles mean anything (outside of Pillar)? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
+: Honestly, we don't care.  The sole purpose of their existence is to assist with our internal needs.
 
 How will we provide support for artisans to progress without working unsustainable hours? [Issue #39](https://github.com/PillarTechnology/guild-docs/issues/39)
 : answer goes here
