@@ -4,16 +4,16 @@ title: Guild Artisan Personas FAQ
 ---
 
 How does the process of moving up a persona become initiated? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
-: The process of moving from one persona to another should be initiated with the help of your mentor. In the absence of a mentor, the most senior artisan on your team or account can step in. During your Career Retro (facilitated by your Account DE and Account Artisan), one topic of conversation should be about your career progression. Using the persona definitions as guidelines, a career plan should be constructed and reviewed during every Career Retro. Currently, the expectation is to have Career Retros on a 6 month cadence.
+: The process of moving from one persona to another should be initiated with the help of your mentor. In the absence of a mentor, the most senior artisan on your team or account can step in. During your Career Retro (facilitated by your Account DE and Account Artisan), one topic of conversation should be about your career progression. Using the persona definitions as guidelines, a career plan should be constructed and reviewed during every Career Retro. Currently, the expectation is to have Career Retros on at least a 6 month cadence.
 
 Who will judge an artisan's behaviors? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
-: Artisans will be treated to individual attention, much like the current new-hire interview process. An artisan's mentor and peer are responsible for giving frequent and honest feedback to help the artisan grow. Once the artisan has been identified, evaluations will be given by Master Craftsmen and Craftsmen, depending on availability and level of the artisan being evaluated.
+: Artisans will be treated to individual attention, much like the current new-hire interview process. An artisan's mentor and peers are responsible for giving frequent and honest feedback to help the artisan grow. Once the artisan has been identified, evaluations will be given by Master Craftsmen and Craftsmen, depending on availability and level of the artisan being evaluated.
 
 How will the behaviors be judged (checked off) since some are subjective? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
 : For behaviors that are subjective, pairing and in-person observation will take place.
 
 Pillar should provide an opportunity for community participation (10% time?) [Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
-: answer goes here
+: We acknowledge that some people hold this opinion. However, this is not something we are going to implement at this time.
 
 Are my promotion qualifications tied heavily to my participation in activities outside of work (community paricipation)? [Inferred, Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
 : Depends on how you define 'heavily.' Will someone who participates in the community grow and mature in their profession at a faster rate? Experience says 'yes'. So, an artisan that participates in activities outside of their billable time will progress at a faster rate.
@@ -45,9 +45,6 @@ Related, do prior expereinces with deployments, clients, etc. count for somethin
 If someone has satisfied all requirements other than number of clients does that count? [Issue #18](https://github.com/PillarTechnology/guild-docs/issues/18)
 : The answer is in the same vein as the answers to the questions for Issue #21.
 
-Where is the Table of Contents? [Issue #20](https://github.com/PillarTechnology/guild-docs/issues/20)
-: Under Construction.
-
 What is the purpose of Years of Experience? [Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
 : The purpose of years of experience is to give an artisan a general idea of where they stand on their journey.
 
@@ -61,7 +58,7 @@ What is the intent behind hard numbers like Years of Experience and Clients work
 : To provide artisans with a general baseline for where they stand within the company and in the larger software development community.  It also serves as a rough measure of the variety of different types of issues and personalities and the range of different cultural and political environments that an artisan has learned to deal with throughout their career.
 
 How can mentoring be a requirement when it isn't formally recognized and supported by the organization? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
-: answer goes here
+: Mentoring is simply being concerned with the success of those around you. Thankfully, at Pillar, being focused on the success of others means we do not need a formal process for mentoring to occur. We have begun asking, during career retros, about a person's mentoring relationships.
 
 Are requirements tied to badges and/or microdegrees in StepItUp? [Issue #24](https://github.com/PillarTechnology/guild-docs/issues/24)
 : Loosely.
@@ -76,45 +73,39 @@ Clarify the expecations listed with each persona as the 'thing you should be doi
 : We have framed them as clear acceptance criteria and it should be clear in the wording.
 
 What are the marketable technologies in areas other than programming? e.g. For testers [Issue #30](https://github.com/PillarTechnology/guild-docs/issues/30)
-: answer goes here
+: This is a new focus for us. We will need to work together to define marketable technologies for job families other than development. 
 
-What about depth v. breadth of experience? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)
-: answer goes here
-
-Is my only path to advancement to be a generalist? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31) [Smells like an excuse to expand on our specialist stuff]
-: answer goes here
+What about depth v. breadth of experience? Is my only path to advancement to be a generalist? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)
+: We believe in T-shaped people. There is a place for multiple specializations and the generalizing specialist.
 
 What is the sales/marketing/strategy view of polyglot and its utility to them? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)
-: answer goes here
+: Pillar values smart people that adapt to changing technical challenges.
 
 Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31) [That is an intersting notion]
 : I didn't know we hired for two different types of engineers. In short, no, no there isn't.
 
-Why are these *things* valuable to Pillar? How valuable? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
-: answer goes here
-
 Who is responsible for the 'future edification' of artisans? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
 : The short answer is that you are solely responsible for (read: "only you have control over") your own professional development and growth.  The long answer is that we have an entire company full of artisans who all love teaching and helping others.  While only you can take control and ensure that you are taking steps to further your own professional development and growth, there are many artisans within Pillar who would be glad to assist you in whatever way they can.  But it is up to you to ask for help when you need it, don't expect that others will initiate and ensure that you are continuing to grow.
 
-Issue #33 is marked as having a question but I'm not picking a specific question out, best guess is 'Should we count projects rather than clients?' [Issue #33](https://github.com/PillarTechnology/guild-docs/issues/33)
+Should we count projects rather than clients? [Issue #33](https://github.com/PillarTechnology/guild-docs/issues/33)
 : This is addressed in the answers to the questions for Issue #21.
 
 What does 'actively integrating engineering practices and value practices' mean? [Issue #34](https://github.com/PillarTechnology/guild-docs/issues/34)
 : The artisan should be able to understand both the technical and business value of doing a thing. They should be able to quantify (in $ to the client, if necessary) the value of the thing they are building and the approach they are suggesting. In short, every artisan should strive to bridge the gap between the technical and the business requirements.
 
 What are the Value Practices? [Issue #34](https://github.com/PillarTechnology/guild-docs/issues/34)
-: answer goes here
+: Many of the Value Practices can be found as badges in [StepItUp](http://stepitup.pillartechnology.com).
 
 Why are we experimenting with a new hierarchical strucutre? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
-: The current structure is inadequate and does not scale.
+: The current structure does not adequately support career development. It does not scale.
 
 How does the guild structure align with compensation? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
-: answer goes here
+: The guild structure, and more importantly a person's place on the craftsmanship path, informs the compensation decision. It is NOT the only data point taken into consideration and we do not assume the guild system is the answer to all of these types of nuanced decisions.
 
 How do we make sure we have the proper ratio of the various artisan groups in order to staff a project? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
-: answer goes here
+: Guild leaders will dcoument and continuously update the preferred structure for a healthy team that takes into account productivity and the need to develop people.
 
-[Issue #35 contains some statement about roles being dictated by client requirements, from this I infer the following question] How do these personnas relate to the roles played at the client location? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
+How do these personnas relate to the roles played at the client location? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
 : As a consultant, you will always be playing multiple roles at any given time.  You will be minimally playing one role for Pillar and another role for a client.  Sometimes they will overlap greatly.  Other times, they will be completely different.  And even other times, you might be playing more than one role for the client (e.g. both the product owner and the iteration manager).  It entirely depends on what the client needs.  However, you shouldn't ever be playing a role at a client that you aren't either already able to handle or ready to grow into.  The example in the issue was, "what if an apprentice was asked to play a master craftsman role at a client."  That should never happen.  The apprentice wouldn't be ready to play that role.  If it does happen, please escalate that immediately, because we want to ensure that our artisans are always placed in a role where they can grow and be successful, and we want to ensure that we have the appropriate people in the appropriate roles to enable success at our clients.
 
 How is this not stack ranking? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
@@ -140,12 +131,10 @@ Will the vanity titles mean anything (outside of Pillar)? [Issue #36](https://gi
 : Honestly, we don't care.  The sole purpose of their existence is to assist with our internal needs.
 
 How will we provide support for artisans to progress without working unsustainable hours? [Issue #39](https://github.com/PillarTechnology/guild-docs/issues/39)
-: answer goes here
-
-# The diversity stuff is thick, here is what I get from it;
+: See answer for Issue 32.
 
 Will appropriate and gender neutral allowances be made for candidates at every turn? [Issue #40-41](https://github.com/PillarTechnology/guild-docs/issues/40)
-: answer goes here
+: The goal of this system is to solve the career progression ambiguity at Pillar. There was not a specific focus on diversity. We welcome any and all input from our Diversity Committee.
 
 Will the master craftsmen have training and diversity goals for individuals and teams? [Issue #41](https://github.com/PillarTechnology/guild-docs/issues/41)
-: answer goes here
+: The goal of this system is to solve the career progression ambiguity at Pillar. There was not a specific focus on diversity. We welcome any and all input from our Diversity Committee.
