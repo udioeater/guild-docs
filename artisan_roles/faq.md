@@ -48,7 +48,7 @@ If someone has satisfied all requirements other than number of clients does that
 What is the purpose of Years of Experience? [Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
 : The purpose of years of experience is to give an artisan a general idea of where they stand on their journey.
 
-Are the years of experience cummulative across the career or just at Pillar? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
+Are the years of experience cumulative across the career or just at Pillar? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
 : Depends on the quality of the years accrued. The same year repeated 10 times is not the same as 10 years of professional growth.
 
 Do multiple projects at one client count the same or similarly to multiple clients? [Inferred, Issue #21](https://github.com/PillarTechnology/guild-docs/issues/21)
