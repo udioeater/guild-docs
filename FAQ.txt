@@ -66,7 +66,7 @@ What does 'actively integrating engineering practices and value practices' mean?
 
 What are the Value Practices? [Issue #34]
 
-Why are we experimenting with a new hierarchical strucutre? [Issue #35]
+Why are we experimenting with a new hierarchical structure? [Issue #35]
 
 How does the guild structure align with compensation? [Issue #35]
 

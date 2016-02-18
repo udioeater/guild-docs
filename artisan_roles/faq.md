@@ -96,7 +96,7 @@ What does 'actively integrating engineering practices and value practices' mean?
 What are the Value Practices? [Issue #34](https://github.com/PillarTechnology/guild-docs/issues/34)
 : Many of the Value Practices can be found as badges in [StepItUp](http://stepitup.pillartechnology.com).
 
-Why are we experimenting with a new hierarchical strucutre? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
+Why are we experimenting with a new hierarchical structure? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
 : The current structure does not adequately support career development. It does not scale.
 
 How does the guild structure align with compensation? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
