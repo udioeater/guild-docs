@@ -39,7 +39,7 @@ Does everyone start at Apprentice? [Issue #16](https://github.com/PillarTechnolo
 Does past experience (employers/clients/etc) pre-Pillar count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
 : Yes.  See the answers to the questions for Issue #21 for further enlightenment.
 
-Related, do prior expereinces with deployments, clients, etc. count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
+Related, to prior experiences with deployments, clients, etc. count for something? [Issue #16](https://github.com/PillarTechnology/guild-docs/issues/16)
 : Yes.  See the answers to the questions for Issue #21 for further enlightenment.
 
 If someone has satisfied all requirements other than number of clients does that count? [Issue #18](https://github.com/PillarTechnology/guild-docs/issues/18)
