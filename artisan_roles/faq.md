@@ -81,7 +81,7 @@ What about depth v. breadth of experience? Is my only path to advancement to be 
 What is the sales/marketing/strategy view of polyglot and its utility to them? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)
 : Pillar values smart people that adapt to changing technical challenges.
 
-Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31) [That is an intersting notion]
+Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31) [That is an interesting notion]
 : I didn't know we hired for two different types of engineers. In short, no, no there isn't.
 
 Who is responsible for the 'future edification' of artisans? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
