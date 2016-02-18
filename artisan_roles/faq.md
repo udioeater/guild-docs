@@ -63,7 +63,7 @@ How can mentoring be a requirement when it isn't formally recognized and support
 Are requirements tied to badges and/or microdegrees in StepItUp? [Issue #24](https://github.com/PillarTechnology/guild-docs/issues/24)
 : Loosely.
 
-Is there a recommended reading list? [Issue #26](https://github.com/PillarTechnology/guild-docs/issues/26) More generally, is there an index of recommended training materails?
+Is there a recommended reading list? [Issue #26](https://github.com/PillarTechnology/guild-docs/issues/26) More generally, is there an index of recommended training materials?
 : This list is under construction at the moment.
 
 What happens if people are not doing a few of the items on the list? [Issue #28](https://github.com/PillarTechnology/guild-docs/issues/28)
