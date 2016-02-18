@@ -8,9 +8,9 @@
 #baseurl: "/"
 
 # If you are building a GitHub project page then use these settings:
-url: "http://pillartechnology.github.io/guild-docs"
+url: "http://guilds.pillartechnology.com"
 #url: "http://0.0.0.0:4000/guild-docs"
-baseurl: /guild-docs
+baseurl: ''
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -58,7 +58,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "pillartechnology.github.io/guild-docs"
+url-pretty: "guilds.pillartechnology.com"
 
 # --- Misc --- #
 
