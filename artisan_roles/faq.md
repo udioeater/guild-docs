@@ -15,7 +15,7 @@ How will the behaviors be judged (checked off) since some are subjective? [Issue
 Pillar should provide an opportunity for community participation (10% time?) [Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
 : We acknowledge that some people hold this opinion. However, this is not something we are going to implement at this time.
 
-Are my promotion qualifications tied heavily to my participation in activities outside of work (community paricipation)? [Inferred, Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
+Are my promotion qualifications tied heavily to my participation in activities outside of work (community participation)? [Inferred, Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
 : Depends on how you define 'heavily.' Will someone who participates in the community grow and mature in their profession at a faster rate? Experience says 'yes'. So, an artisan that participates in activities outside of their billable time will progress at a faster rate.
 
 Are measures like the number of releases optional? Or explain how that works? [Issue #14](https://github.com/PillarTechnology/guild-docs/issues/314)

@@ -6,7 +6,7 @@ How will the behaviors be judged (checked off) since some are subjective? [Issue
 
 Pillar should provide an opportunity for community participation (10% time?) [Not sure this is a question or statement, proably need to address eventually, Inferred, Issue #12]
 
-Are my promotion qualifications tied heavily to my participation in activities outside of work (community paricipation)? [Inferred, Issue #12]
+Are my promotion qualifications tied heavily to my participation in activities outside of work (community participation)? [Inferred, Issue #12]
 
 Are measures like the number of releases optional? Or explain how that works? [Issue #14]
 
