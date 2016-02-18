@@ -69,7 +69,7 @@ Is there a recommended reading list? [Issue #26](https://github.com/PillarTechno
 What happens if people are not doing a few of the items on the list? [Issue #28](https://github.com/PillarTechnology/guild-docs/issues/28)
 : They should aim to go above and beyond in other areas in order to compensate.
 
-Clarify the expecations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29](https://github.com/PillarTechnology/guild-docs/issues/29)
+Clarify the expectations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29](https://github.com/PillarTechnology/guild-docs/issues/29)
 : We have framed them as clear acceptance criteria and it should be clear in the wording.
 
 What are the marketable technologies in areas other than programming? e.g. For testers [Issue #30](https://github.com/PillarTechnology/guild-docs/issues/30)

@@ -44,7 +44,7 @@ Is there a recommended reading list? [Issue #26] More generally, is there an ind
 
 What happens if people are not doing a few of the items on the list? [Issue #28]
 
-Clarify the expecations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29]
+Clarify the expectations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29]
 
 What are the marketable technologies in areas other than programming? e.g. For testers [Issue #30]
 
