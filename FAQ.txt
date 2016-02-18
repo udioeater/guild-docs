@@ -72,7 +72,7 @@ How does the guild structure align with compensation? [Issue #35]
 
 How do we make sure we have the proper ratio of the various artisan groups in order to staff a project? [Issue #35]
 
-[Issue #35 contains some statement about roles being dictated by client requirements, from this I inferr the following question] How do these personnas relate to the roles played at the client location? [Issue #35] [Personal note, this statement/question scares the crap out of me]
+[Issue #35 contains some statement about roles being dictated by client requirements, from this I inferr the following question] How do these personas relate to the roles played at the client location? [Issue #35] [Personal note, this statement/question scares the crap out of me]
 
 How is this not stack ranking? [Issue #35]
 
