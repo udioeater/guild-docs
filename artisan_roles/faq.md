@@ -138,3 +138,8 @@ Will appropriate and gender neutral allowances be made for candidates at every t
 
 Will the master craftsmen have training and diversity goals for individuals and teams? [Issue #41](https://github.com/PillarTechnology/guild-docs/issues/41)
 : The goal of this system is to solve the career progression ambiguity at Pillar. There was not a specific focus on diversity. We welcome any and all input from our Diversity Committee.
+
+Are there any goals for cycle-time on feedback or pull-requests? [Issue #56](https://github.com/PillarTechnology/guild-docs/issues/56)
+: Pull-requests will typically have a faster cycle time than feedback / issues because they usually contain a solution.
+
+With issues that are asking clarifying questions, it takes longer to formulate a response because it is necessary to gain a consensus.
