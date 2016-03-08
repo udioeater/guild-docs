@@ -70,7 +70,7 @@ What happens if people are not doing a few of the items on the list? [Issue #28]
 : They should aim to go above and beyond in other areas in order to compensate.
 
 Clarify the expectations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29](https://github.com/PillarTechnology/guild-docs/issues/29)
-: We have framed them as clear acceptance criteria and it should be clear in the wording.
+: The expectations listed with each persona are framed as Acceptance Criteria. This means, for example, that an artisan is ready to become a Journeyman if they meet all of the expectations listed with the Apprentice persona, even if they do not meet any of the expectations listed with the Journeyman persona.
 
 What are the marketable technologies in areas other than programming? e.g. For testers [Issue #30](https://github.com/PillarTechnology/guild-docs/issues/30)
 : This is a new focus for us. We will need to work together to define marketable technologies for job families other than development. 
