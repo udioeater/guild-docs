@@ -70,7 +70,7 @@ What happens if people are not doing a few of the items on the list? [Issue #28]
 : They should aim to go above and beyond in other areas in order to compensate.
 
 Clarify the expectations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29](https://github.com/PillarTechnology/guild-docs/issues/29)
-: We have framed them as clear acceptance criteria and it should be clear in the wording.
+: The expectations listed with each persona are framed as Acceptance Criteria. This means, for example, that an artisan is ready to become a Journeyman if they meet all of the expectations listed with the Apprentice persona, even if they do not meet any of the expectations listed with the Journeyman persona.
 
 What are the marketable technologies in areas other than programming? e.g. For testers [Issue #30](https://github.com/PillarTechnology/guild-docs/issues/30)
 : This is a new focus for us. We will need to work together to define marketable technologies for job families other than development. 
@@ -82,7 +82,7 @@ What is the sales/marketing/strategy view of polyglot and its utility to them? [
 : Pillar values smart people that adapt to changing technical challenges.
 
 Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31) [That is an interesting notion]
-: I didn't know we hired for two different types of engineers. In short, no, no there isn't.
+: In short, no. Although different skill sets may be required day-to-day while working at the Forge vs. at a client site, our goal is that any of our artisans should have the skill sets necessary to work effectivey in either environment as needed.
 
 Who is responsible for the 'future edification' of artisans? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
 : The short answer is that you are solely responsible for (read: "only you have control over") your own professional development and growth.  The long answer is that we have an entire company full of artisans who all love teaching and helping others.  While only you can take control and ensure that you are taking steps to further your own professional development and growth, there are many artisans within Pillar who would be glad to assist you in whatever way they can.  But it is up to you to ask for help when you need it, don't expect that others will initiate and ensure that you are continuing to grow.
@@ -138,3 +138,8 @@ Will appropriate and gender neutral allowances be made for candidates at every t
 
 Will the master craftsmen have training and diversity goals for individuals and teams? [Issue #41](https://github.com/PillarTechnology/guild-docs/issues/41)
 : The goal of this system is to solve the career progression ambiguity at Pillar. There was not a specific focus on diversity. We welcome any and all input from our Diversity Committee.
+
+Are there any goals for cycle-time on feedback or pull-requests? [Issue #56](https://github.com/PillarTechnology/guild-docs/issues/56)
+: Pull-requests will typically have a faster cycle time than feedback / issues because they usually contain a solution.
+
+With issues that are asking clarifying questions, it takes longer to formulate a response because it is necessary to gain a consensus.
