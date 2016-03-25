@@ -48,7 +48,14 @@
 	  <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
-  
+
+  <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.theme.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/contact.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/faq.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+
   <!-- Facebook OpenGraph tags -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="website" />

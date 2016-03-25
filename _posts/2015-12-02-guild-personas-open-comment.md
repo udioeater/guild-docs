@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guild Personas Open for Comment
+title: Personas Open for Comment
 ---
 
 Beginning today, the *beta* version of the [Guild Personas]({{ site.url }}/artisan_roles) are open for comment from all of Pillar. The document will remain in beta for approximately one week. The *alpha* version of the document was released to **Diversity @ Pillar** several weeks ago. This version reflects some of the modifications and recommendations made by that group.
