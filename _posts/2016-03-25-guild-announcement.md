@@ -3,7 +3,7 @@ layout: post
 title: Announcement of Guilds
 ---
 
-###Guilds will be announced soon and there are a few things you should know
+### Guilds will be announced soon and there are a few things you should know
 
 We are very excited to be able to write that over the next 7-10 days Guilds will be formally announced to everyone at Pillar.
 We are making this move for 2 reasons.  
