@@ -7,7 +7,7 @@ If you're asking 'Why?', check out the [value stories](./value_stories.html).
 
 > The time frame denoted in parentheses is an average number of years spent at that level
 
-Pre Requisites Apprentice
+Prerequisites for Apprentice
 -------------------------
 As a **prospective Apprentice**\\
 I should exhibit the following behaviors:
@@ -18,7 +18,7 @@ I should exhibit the following behaviors:
 </ul>
 So that I can become an **Apprentice**
 
-Apprentice (1 year)
+Prerequisites for Journeyman (1 year)
 -------------------
 As an **Apprentice**\\
 I should exhibit the following behaviors:
@@ -29,7 +29,7 @@ I should exhibit the following behaviors:
 </ul>
 So that I am eligible to become a **Journeyman**
 
-Journeyman (5+ years)
+Prerequisites for Craftsman (5+ years)
 ---------------------
 As a **Journeyman**\\
 I should exhibit the following behaviors:
@@ -41,8 +41,8 @@ I should exhibit the following behaviors:
 <li>actively participated/ing on at least 3 clients</li>
 </ul>
 So that I am eligible to become a **Craftsman**
- 
-Craftsman (7+ years)
+
+Prerequisites for Master Craftsman (7+ years)
 --------------------
 As a **Craftsman**\\
 I should exhibit the following behaviors:
@@ -98,4 +98,3 @@ I should exhibit the following behaviors:
 </li>
 </ul>
 So that I can maintain and grow my role as a **Master Craftsman**
-
