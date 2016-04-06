@@ -5,7 +5,7 @@ title: Guild Artisan Personas
 
 If you're asking 'Why?', check out the [value stories](./value_stories.html).
 
-> The time frame denoted in parentheses is an average number of years spent at that level
+> The time frame denoted in parentheses is an average number of years spent working to reach that next level
 
 Prerequisites for Apprentice
 -------------------------
@@ -18,7 +18,7 @@ I should exhibit the following behaviors:
 
 So that I can become an **Apprentice**
 
-Prerequisites for Journeyman (1 year)
+Apprentice to Journeyman (1 year)
 -------------------
 As an **Apprentice**  
 I should exhibit the following behaviors:
@@ -29,7 +29,7 @@ I should exhibit the following behaviors:
 
 So that I am eligible to become a **Journeyman**
 
-Prerequisites for Craftsman (5+ years)
+Journeyman to Craftsman (5+ years)
 ---------------------
 As a **Journeyman**  
 I should exhibit the following behaviors:
@@ -42,7 +42,7 @@ I should exhibit the following behaviors:
 
 So that I am eligible to become a **Craftsman**
 
-Prerequisites for Master Craftsman (7+ years)
+Craftsman to Master Craftsman (7+ years)
 --------------------
 As a **Craftsman**  
 I should exhibit the following behaviors:
