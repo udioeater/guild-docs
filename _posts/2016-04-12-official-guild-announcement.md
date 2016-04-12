@@ -3,7 +3,7 @@ layout: post
 title: Official Annoucement - Guilds
 ---
 
-###We are Pillar Guilds
+### We are Pillar Guilds
 
 A short time back we wrote to let you know we would be formally announcing Guilds at Pillar. This is that announcement. Contained within you will find an explanation of the composition of each Guild, the ways to get more information about your Guilds, and a reminder of why this change is occurring. Without further ado...
 
