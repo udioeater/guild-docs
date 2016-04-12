@@ -142,4 +142,16 @@ Will the master craftsmen have training and diversity goals for individuals and 
 Are there any goals for cycle-time on feedback or pull-requests? [Issue #56](https://github.com/PillarTechnology/guild-docs/issues/56)
 : Pull-requests will typically have a faster cycle time than feedback / issues because they usually contain a solution.
 
+What is the optimal size for a Pillar Guild?
+: Based on many converations, we believe the optimal size for a guild, should contain 20 - 30 members.
+
+Are guilds geographically based?
+: No.
+
+Will I be allowed to switch guilds?
+: A large purpose of the guilds is to advance the growth and learning of the individual guild member.  We will handle switching guilds on an individual basis.
+
+Do we expect guilds to change over time?
+: Yes.  We do not have all of the answers, but that's okay.  We will figure things out as we go and iterate to make it better.  (Ambiguity is okay)
+
 With issues that are asking clarifying questions, it takes longer to formulate a response because it is necessary to gain a consensus.
