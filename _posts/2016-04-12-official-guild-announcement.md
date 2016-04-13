@@ -33,7 +33,7 @@ The initial division of Guilds is based on the current project participation.  T
 
 ## How do you learn more and provide feedback?
 
-Your Guild Leader will be scheduling time with all of you to explain in detail what comes next, if they have not done so already. Working directly with your Guild Leader will be the most reliable and responsive source of information. Additionally there will be a discussion of Guilds in the monthly meeting occurring on 4/13 in each region as well as PillarCon. Lastly, you can always email Guild Leaders at guild-leaders@pillartchnology.com.
+Your Guild Leader will be scheduling time with all of you to explain in detail what comes next, if they have not done so already. Working directly with your Guild Leader will be the most reliable and responsive source of information. Additionally there will be a discussion of Guilds in the monthly meeting occurring on 4/13 in each region as well as PillarCon. Lastly, you can always email Guild Leaders at <guild-leaders@pillartechnology.com>.
 
 Guild Leaders are currently meeting weekly and will always discuss feedback and changes at those meetings, allowing for iteration. As you provide feedback expect a response and/or change cadence of 1-2 weeks. If necessary,  escalation can be made to Don Abney via phone or email.
 
