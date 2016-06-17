@@ -85,7 +85,12 @@ Related, is there a difference in the kind of talent for Forge dwellers and embe
 : In short, no. Although different skill sets may be required day-to-day while working at the Forge vs. at a client site, our goal is that any of our artisans should have the skill sets necessary to work effectivey in either environment as needed.
 
 Who is responsible for the 'future edification' of artisans? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
-: The short answer is that you are solely responsible for (read: "only you have control over") your own professional development and growth.  The long answer is that we have an entire company full of artisans who all love teaching and helping others.  While only you can take control and ensure that you are taking steps to further your own professional development and growth, there are many artisans within Pillar who would be glad to assist you in whatever way they can.  But it is up to you to ask for help when you need it, don't expect that others will initiate and ensure that you are continuing to grow.
+: We expect every individual
+: * to recognize that there are always opportunities to improve themselves
+: * to have a desire to improve, grow and learn
+: * to be open to improving, growing, and learning
+: * to uplift those around them, both Pillar and client
+: We believe that our company is full of such artisans, who all love teaching and helping others. It is the responsibility of each individual to take control of their own professional development and growth. It is the responsibility of all Pillar artisans to create a collaborative and supportive environment that is conducive to teaching, learning, and growth.
 
 Should we count projects rather than clients? [Issue #33](https://github.com/PillarTechnology/guild-docs/issues/33)
 : This is addressed in the answers to the questions for Issue #21.
