@@ -25,6 +25,7 @@ I should exhibit the following behaviors:
 
 - Proficiency in at least 1 marketable technology
 - Aware of basic Pillar Tenets of Software Engineering
+- Awareness of Consultant responsibilities
 - Actively participated on at least one Pillar Project
 
 So that I am eligible to become a **Journeyman**
@@ -36,6 +37,7 @@ I should exhibit the following behaviors:
 
 - Proficiency in at least 3 marketable technologies
 - Actively demonstrating Pillar’s engineering practices
+- Actively demonstrating Consultant values
 - Actively learning team room practices
 - Actively learning value practices
 - Actively participated/ing on at least 3 clients
