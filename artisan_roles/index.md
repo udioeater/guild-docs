@@ -51,7 +51,6 @@ I should exhibit the following behaviors:
 
 - Demonstrable proficiency in at least 6 marketable technologies
 - Actively integrating engineering practices and value practices
-- Pay it forward (blogs, open source, speaking engagements, etc)
 - Organizational development within Pillar
     + talent
     + content creation
